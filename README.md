@@ -2,7 +2,7 @@
 
 Welcome to Open-Source-Issue!
 
-![Your Organization Logo](link-to-your-logo.png)
+![Your Organization Logo](https://avatars.githubusercontent.com/u/145421375?s=400&u=9fda94610e9e056efd99ed42faed8b227c5cd1f4&v=4)
 
 ## About Open-Source-Issue
 
