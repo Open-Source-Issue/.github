@@ -17,4 +17,4 @@ Contributing to Open-Source-Issue is easy, and we welcome contributions from dev
 2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
    
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Open-Source-Issue/.github
