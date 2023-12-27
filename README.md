@@ -6,7 +6,7 @@ Welcome to Open-Source-Issue!
 
 ## About Open-Source-Issue
 
-Open-Source-Issue is an open-source community dedicated to [briefly describe your organization's mission and goals]. We believe in the power of collaboration and open source to [mention the impact or change you aim to achieve].
+Open-Source-Issue is a non-profit organization providing a platform for developers to engage with diverse projects. Contributors can address labeled issues, aiding organizations, and users who benefit from the organization's projects free of charge. We're committed to creating projects with varied use cases, fostering collaborative innovation within the community.
 
 ## How to Contribute
 
